@@ -245,4 +245,4 @@ This repository serves as the official landing page for Rust. The software is di
 **Get the most recent version of Rust today!**
 
 ---
-**Last updated:** 2026-09-24 07:11:36 UTC
+**Last updated:** 2026-09-24 13:12:19 UTC
